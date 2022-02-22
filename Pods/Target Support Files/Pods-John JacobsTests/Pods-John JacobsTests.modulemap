@@ -1,0 +1,6 @@
+framework module Pods_John_JacobsTests {
+  umbrella header "Pods-John JacobsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
